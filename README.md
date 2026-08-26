@@ -1,5 +1,5 @@
 
-# 🐍 Curso de Python - Curso em Vídeo
+# 🐍 100-desafios-python
 Este repositório contém minhas anotações pessoais, códigos de exemplo e a resolução dos desafios propostos durante o curso de **Python 3** do canal Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 ## 🚀 Status do Projeto
 Atualmente, estou focado em resolver e organizar todos os exercícios dos mundos 1, 2 e 3.
